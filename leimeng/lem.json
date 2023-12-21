@@ -13,7 +13,7 @@
 //"spider":"./N3RD/J/lem1102.jar;md5;BFA0402F076B9322D0EA52AF052CF0D4",
 //"spider":"./N3RD/J/lem1101.jar;md5;39E9AA3A294E1D0F0B6F3886C5E0037B",
 
-"wallpaper":"https://PIC.clem7.repl.co",
+"wallpaper":"https://3650000.xyz/view/api.php?p=1703089277",
 
 "lives":[
 {"name":"猫贩子直播","type":0,"url":"https://codeberg.org/zengzifeng/iptv6/raw/branch/main/iptv.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
@@ -25,10 +25,9 @@
 {"key":"csp_Douban","name":"📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"drjs_豆瓣推荐","name":"📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"csp_Market","jar":"./N3RD/J/market.jar","name":"🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
-{"key":"drjs_直播","name":"🖥电视直播(DRJS)","type":3,"api":"./EXT/JS/直播转点播.js","changeable":0,"ext":"./EXT/JS/直播.js&&&./N3RD/W/POSTER1.png"},
+{"key":"drjs_直播","name":"🖥电视直播","type":3,"api":"./EXT/JS/直播转点播.js","changeable":0,"ext":"./EXT/JS/直播.js&&&./N3RD/W/POSTER1.png"},
 {"key":"csp_CCTV_ZAL","name":"©央视(SP)","type":3,"api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"./EXT/XB/cctv.json"},
 {"key":"csp_FirstAid","name":"🚑急救教学(SP)","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-{"key":"YOUTUBE直播","name":"🖥YOUTUBE直播【翻墙观看】","type":3,"playerType":2,"api":"./EXT/JS/lf_live8_min.js","ext":"./EXT/JS/YT.txt"},
 {"key":"雷蒙影视K歌库","name":"🎤影视K歌库【选[音轨]切换原音/伴奏】","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Kugou","name":"🎵酷狗音乐","type":3,"api":"csp_Kugou","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"xml_暴风资源","name":"🚀暴风资源","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
@@ -171,7 +170,6 @@
 {"key":"csp_SixV","name":"🧲6V电影网(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},
 {"key":"csp_Xb6v","name":"🧲6V电影网(备用)","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_PiaoHua","name":"🧲新飘花电影网(SP)","type":3,"api":"csp_PiaoHua","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_Mp4Mov_XYQ","name":"🧲Mp4电影(SP)","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SeedHub_XYQ","name":"🧲SeedHub(SP)","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_KubaCL_XYQ","name":"🧲酷吧电影(SP)","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -180,7 +178,6 @@
 {"key":"csp_New6v_XYQ","name":"🧲新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
 {"key":"csp_BLSGod_XYQ","name":"🧲80S影视(SP)","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xunlei8_XYQ","name":"🧲迅雷吧(SP)","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_MagnetYinfans_ZAL","name":"🧲音范丝(备用)","type":3,"api":"csp_MagnetYinfans","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Magnet4khdr_ZAL","name":"🧲4KHDR(SP)","type":3,"api":"csp_Magnet4khdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MagnetSeedhub_ZAL","name":"🧲SEED(SP)","type":3,"api":"csp_MagnetSeedhub","searchable":1,"quickSearch": 1,"filterable":1},
@@ -188,10 +185,8 @@
 {"key":"csp_MagnetDygang_ZAL","name":"🧲电影港(SP)","type":3,"api":"csp_MagnetDygang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MagnetMp4us_ZAL","name":"🧲MP4(SP)","type":3,"api":"csp_MagnetMp4us","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MagnetBt0_ZAL","name":"🧲不太灵(SP)","type":3,"api":"csp_MagnetBt0","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"drjs_6V新版[磁]","name":"🧲6V新版(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/6V新版[磁].js"},
 {"key":"drjs_磁力熊[磁]","name":"🧲磁力熊(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./EXT/JS/磁力熊[磁].js"},
-
 {"key":"drjs_jiyingw_PG","name":"🧲极影网(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/jiyingw.js"},
 {"key":"drjs_dygang_PG","name":"🧲电影港(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/dygang.js"},
 {"key":"drjs_4khdr_PG","name":"🧲4KHDR(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./EXT/JS/4khdr.js"},
@@ -497,7 +492,6 @@
 {"key":"csp_XBPQ_ALT_蛋蛋剧","name":"🤍蛋蛋剧(XBPQ)","type":3,"api":"csp_XBPQ","ext":{"嗅探词":"v3-dy-o.zjcdn#.m3u8#uc.cn","过滤词":"daina.hk","请求头":"手机#Referer$https://www.dandanju.cc/","分类url":"https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html","分类":"电影$1#剧集$2#动漫$4#综艺$4","数组":" <li class=\"col-md-6 col-sm-4 col-xs-3&&</li","搜索模式":"1","搜索url":"https://www.dandanju.cc/search/{wd}----------1---.html","搜索数组":"<li class=\"active clearfix&&</li"}},
 {"key":"csp_XBPQ_ALT_恐怖世界","name":"🤍恐怖世界ऺ(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"链接":"/vodplay/+/voddetail/&&.html+-1-1.html","播放数组":"<ul class=\"content_playlist list_scroll clearfix\">&&</ul>","播放标题":">&&</a>","播放列表":"<li&&/li>","播放链接":"href=\"&&\"","分类":"恐怖片$1#恐怖电视剧$2#恐怖动漫$21","分类url":"https://www.840f.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;mal"}},
 {"key":"csp_XBPQ_ALT_熊猫","name":"🤍熊猫(XBPQ)","type":3,"api":"csp_XBPQ","ext":{"简介":"<p>&&</p>","主演":"主演：class=\"module-info-item-title\">&&</span>","导演":"导演：&&</span>","影片年代":"年份：&&</li>","影片地区":"地区：&&</li>","影片类型":"类型：&&</li>","影片状态":"更新：&&</span>","数组":"<a&&</div></div></a>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接":"href=\"&&\"","副标题":"<div class=\"module-item-note\">&&</div>","线路数组":"data-dropdown-value=&&</div>[排序:索尼>快看]","线路标题":"<span>&&</small>[替换:</span><small>>>🐼共]+集","播放数组":"<div class=\"module-play-list\">&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","播放链接":"href=\"&&\"","分类":"电影&电视剧&综艺&动漫","分类值":"52&69&77&75","分类url":"https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"}},
- 
 {"key":"csp_XBPQ_星影","name":"🤍星影(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./EXT/XBPQ/星影.json"},
 {"key":"csp_XBPQ_Vidhub","name":"🤍Vidhub(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./EXT/XBPQ/Vidhub.json"},
 {"key":"csp_XBPQ_无名小站","name":"🤍无名小站(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./EXT/XBPQ/无名小站.json"},
