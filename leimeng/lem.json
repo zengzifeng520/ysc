@@ -22,8 +22,6 @@
 "sites":[
 
 // ⇩⇩ Lem缝合包 ⇩⇩ 
-{"key":"csp_Notice","name":"📢【锋哥声明】公告","type":3,"api":"csp_Notice","ext":"锋哥影视独家资源，私享即可，请勿传播！"},
-{"key":"公告1","name":"📢【锋哥声明】勿传播本线路","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./EXT/XB/ANNOUNCEMENT.json"},
 {"key":"csp_Douban","name":"📡我的豆瓣(SP)","type":3,"api":"csp_Douban","searchable":0,"ext":"./N3RD/T/douban.json"},
 {"key":"drjs_豆瓣推荐","name":"📡豆瓣推荐(DRPY)","type":3,"api":"./dr_py/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./dr_py/js/drpy.js"},
 {"key":"csp_Market","jar":"./N3RD/J/market.jar","name":"🏪应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./N3RD/T/market.json"},
