@@ -12,7 +12,7 @@
 
 	"sites":[
 {"key":"豆瓣","name":"🐱抖音猫贩子接口免费","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
-{"key": "csp_ttkx","name": "🐱玩偶┃4K","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads","filter": "./lib/wogg.json"},"jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},	
+{"key": "csp_ttkx","name": "🐱玩偶┃4K","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt","filter": "./lib/wogg.json"},"jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},	
 {"key": "海星影视","name": "🐱海星┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/haixingys.json"},
 {"key":"csp_三七","name":"🐱三七┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/sqys.json"},
 {"key":"csp_星辰","name":"🐱星辰┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/xcys.json"},
@@ -127,12 +127,12 @@
 {"key": "js_DJ5","name": "🐱短剧┃DJ5","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/duanjuwang.js"},			
 {"key":"csp短剧网","name":"🐱短剧┃手机","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/duanju5.json"},
 {"key": "csp_XBPQ_aoaotv", "name": "🐱短剧┃嗷嗷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24" } },	
-{"key":"纸条搜","name":"🖥纸条搜","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},
-{"key":"盘搜索","name":"🖥盘搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},
-{"key":"云盘搜","name":"🖥云盘搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},
-{"key":"找资源","name":"🖥找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9$$$66666"},
-{"key": "易搜","name": "🖥易搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "http://rihou.cc:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9","ext": "d7ce515c2ad54592a88992e7773e8712"},	
-{"key": "csp_七夜","name": "🖥七夜搜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar": "http://rihou.cc:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9","ext": "d7ce515c2ad54592a88992e7773e8712"},			
+{"key":"纸条搜","name":"🖥纸条搜","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},
+{"key":"盘搜索","name":"🖥盘搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},
+{"key":"云盘搜","name":"🖥云盘搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},
+{"key":"找资源","name":"🖥找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt","jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9$$$66666"},
+{"key": "易搜","name": "🖥易搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt","jar": "http://rihou.cc:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9","ext": "d7ce515c2ad54592a88992e7773e8712"},	
+{"key": "csp_七夜","name": "🖥七夜搜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt","jar": "http://rihou.cc:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9","ext": "d7ce515c2ad54592a88992e7773e8712"},			
 
 {"key":"土拨鼠","name":"🖥土拨鼠搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tuboshu.json"},
 {"key":"我的小站","name":"🖥小站搜索","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/xiaozhan.json"},
