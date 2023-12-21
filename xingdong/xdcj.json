@@ -19,7 +19,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -30,7 +30,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
     },
     {
     "key": "🦊YiSo",
@@ -41,7 +41,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
     },
     {
     "key": "🦊Zhaozy",
@@ -52,7 +52,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
     },
     {
     "key": "🦊PanSou",
@@ -63,7 +63,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
     },
     {
     "key": "🦊UpYun",
@@ -74,7 +74,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
     },
     {
     "key": "🦊PanSearch",
@@ -85,7 +85,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
     },
     {
     "key": "🦊七夜",
@@ -96,7 +96,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
     },  
     {
     "key": "🦉七夜8",
@@ -105,7 +105,7 @@
     "api": "csp_Dovx",
     "searchable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
     "jar": "./lib/pg.jar"
     },
     {
@@ -115,7 +115,7 @@
     "api": "csp_UpYun",
     "searchable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
     "jar": "./lib/pg.jar"
     },
  
@@ -163,7 +163,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -175,7 +175,7 @@
     "filterable": 1,
     "changeable": 1,
     "ext": {
-        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+        "token": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": false
     },
@@ -190,7 +190,7 @@
     "filterable": 1,
     "changeable": 0,
     "ext": {
-        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+        "token": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": true
     },
@@ -206,12 +206,6 @@
       "filterable": 1,
       "ext": "./lib/Bili.json"
     },
-    {
-    "key":"直播",
-    "name":"💻电视直播",
-    "type":3,
-    "api":"https://jihulab.com/owen2000wy/owentv/-/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-    "ext":"🐱抖音猫贩子$./zhibo.txt&&&https://pan.shangui.cc/f/P1pXtK/ting.jpg"},
     {
       "key": "快云资源",
       "name": "快云采集",
@@ -2795,7 +2789,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./zhibo.txt",
+      "url": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/iptv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
