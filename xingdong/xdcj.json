@@ -19,7 +19,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -41,7 +41,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
     "key": "🦊Zhaozy",
@@ -52,7 +52,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
     "key": "🦊PanSou",
@@ -63,7 +63,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
     "key": "🦊UpYun",
@@ -74,7 +74,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
     "key": "🦊PanSearch",
@@ -85,7 +85,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
     "key": "🦊七夜",
@@ -96,7 +96,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt"
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },  
     {
     "key": "🦉七夜8",
@@ -105,7 +105,7 @@
     "api": "csp_Dovx",
     "searchable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
+    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
     "jar": "./lib/pg.jar"
     },
     {
@@ -115,7 +115,7 @@
     "api": "csp_UpYun",
     "searchable": 1,
     "changeable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
     "jar": "./lib/pg.jar"
     },
  
@@ -163,7 +163,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -175,7 +175,7 @@
     "filterable": 1,
     "changeable": 1,
     "ext": {
-        "token": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": false
     },
@@ -190,7 +190,7 @@
     "filterable": 1,
     "changeable": 0,
     "ext": {
-        "token": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": true
     },
