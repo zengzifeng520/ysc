@@ -19,7 +19,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -30,7 +30,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 0,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
     "key": "🦊YiSo",
@@ -41,7 +41,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
     "key": "🦊Zhaozy",
@@ -52,7 +52,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
     "key": "🦊PanSou",
@@ -63,7 +63,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
     "key": "🦊UpYun",
@@ -74,7 +74,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
     "key": "🦊PanSearch",
@@ -85,7 +85,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
     "key": "🦊七夜",
@@ -96,7 +96,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },  
     {
     "key": "🦉七夜8",
@@ -105,7 +105,7 @@
     "api": "csp_Dovx",
     "searchable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
     "jar": "./lib/pg.jar"
     },
     {
@@ -115,7 +115,7 @@
     "api": "csp_UpYun",
     "searchable": 1,
     "changeable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
     "jar": "./lib/pg.jar"
     },
  
@@ -163,7 +163,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -175,7 +175,7 @@
     "filterable": 1,
     "changeable": 1,
     "ext": {
-        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": false
     },
@@ -190,7 +190,7 @@
     "filterable": 1,
     "changeable": 0,
     "ext": {
-        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": true
     },
