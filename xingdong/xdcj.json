@@ -12,6 +12,191 @@
     "filterable":1
     },
     {
+    "key": "🍮Gitcafe6",
+    "name": "🍮纸条搜",
+    "type": 3,
+    "api": "csp_Paper",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "jar": "./lib/HeChengChaXiupm.jar"
+    },
+    {
+    "key": "🦊csp_WoGG",
+    "name": "🦊玩偶哥哥",
+    "type": 3,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    },
+    {
+    "key": "🦊YiSo",
+    "name": "🦊易搜",
+    "type": 3,
+    "api": "csp_YiSo",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    },
+    {
+    "key": "🦊Zhaozy",
+    "name": "🦊找资源",
+    "type": 3,
+    "api": "csp_Zhaozy",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    },
+    {
+    "key": "🦊PanSou",
+    "name": "🦊盘搜",
+    "type": 3,
+    "api": "csp_PanSou",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    },
+    {
+    "key": "🦊UpYun",
+    "name": "🦊Up搜",
+    "type": 3,
+    "api": "csp_UpYun",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    },
+    {
+    "key": "🦊PanSearch",
+    "name": "🦊盘Se",
+    "type": 3,
+    "api": "csp_PanSearch",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    },
+    {
+    "key": "🦊七夜",
+    "name": "🦊七夜",
+    "type": 3,
+    "api": "csp_Dovx",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
+    },  
+    {
+    "key": "🦉七夜8",
+    "name": "🦉七夜",
+    "type": 3,
+    "api": "csp_Dovx",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "jar": "./lib/pg.jar"
+    },
+    {
+    "key": "🦉雲搜8",
+    "name": "🦉雲搜",
+    "type": 3,
+    "api": "csp_UpYun",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "jar": "./lib/pg.jar"
+    },
+ 
+    {
+    "key": "📀csp_XYQHiker_DOVX搜索",
+    "name": "📀DOVX",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./lib/DOVX搜索.json",
+    "jar": "./lib/xyq.jar"
+    },
+    {
+    "key": "📀csp_XYQHiker_盘搜索",
+    "name": "📀盘搜索",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./lib/盘搜索.json",
+    "jar": "./lib/xyq.jar"
+    },
+    {
+    "key": "📀csp_XYQHikerAL_阿里云盘网",
+    "name": "📀阿里云盘",
+    "type": 3,
+    "api": "csp_XYQHikerAL",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./lib/阿里云盘网.json",
+    "jar": "./lib/xyq.jar"
+    },
+    {
+    "key": "🍮UpYun6",
+    "name": "🍮优盘搜",
+    "type": 3,
+    "api": "csp_UpYun",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+    "jar": "./lib/HeChengChaXiupm.jar"
+    },
+    {
+    "key": "玩偶",
+    "name": "🐱玩偶猫贩子|4K",
+    "type": 3,
+    "api": "csp_Wogg",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": {
+        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+        "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
+        "danmu": false
+    },
+    "jar": "./lib/928.jar"
+    },
+    {
+    "key": "玩偶弹幕版",
+    "name": "🐱玩偶猫贩子弹幕版|4K",
+    "type": 3,
+    "api": "csp_Wogg",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "ext": {
+        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+        "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
+        "danmu": true
+    },
+    "jar": "./lib/1012.jar"
+    },
+    {
       "key": "csp_Bili",
       "name": "🅱️哔哩哔哩",
       "type": 3,
@@ -21,6 +206,12 @@
       "filterable": 1,
       "ext": "./lib/Bili.json"
     },
+    {
+    "key":"直播",
+    "name":"💻电视直播",
+    "type":3,
+    "api":"https://jihulab.com/owen2000wy/owentv/-/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+    "ext":"🐱抖音猫贩子$./zhibo.txt&&&https://pan.shangui.cc/f/P1pXtK/ting.jpg"},
     {
       "key": "快云资源",
       "name": "快云采集",
@@ -2604,7 +2795,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://codeberg.org/zengzifeng/iptv6/raw/branch/main/iptv.txt",
+      "url": "./zhibo.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
