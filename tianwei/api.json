@@ -714,6 +714,17 @@
             "changeable": 0,
             "ext": "https://gitee.com/zifeng8/yingshicang/raw/master/token.txt"
         },
+    {
+    "key": "🍮Gitcafe6",
+    "name": "🍮纸条搜",
+    "type": 3,
+    "api": "csp_Paper",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+    "jar": "./lib/HeChengChaXiupm.jar"
+    },
         {
             "key": "ext_live_protocol",
             "name": "导航 http://tvkj.top",
