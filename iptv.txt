@@ -305,6 +305,11 @@ CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221
 赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
 江西风尚购物,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1758872048_47751100/ott.mobaibox.com/PLTV/3/224/3221225956/index.m3u8?icpid=3&RTS=1674386169&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 广西地区,#genre#
+广西综艺,http://110.72.102.56:808/hls/334/index.m3u8
+广西影视,http://110.72.102.56:808/hls/201/index.m3u8
+广西公共,http://110.72.102.56:808/hls/201/index.m3u8
+广西都市,http://110.72.102.56:808/hls/204/index.m3u8
+广西新闻,http://110.72.102.56:808/hls/204/index.m3u8
 南宁公共频道,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
