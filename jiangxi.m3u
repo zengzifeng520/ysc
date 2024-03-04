@@ -34,23 +34,27 @@ http://gzly.hkychina.com:6001/udp/239.252.220.192:5140
 http://gzly.hkychina.com:6001/udp/239.252.220.150:5140
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://gzly.hkychina.com:6001/udp/239.252.220.63:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西都市频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西都市频道
+http://gzly.hkychina.com:6001/udp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西都市频道
 http://gzly.hkychina.com:6001/udp/239.252.220.109:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西经济生活频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西经济生活
 http://gzly.hkychina.com:6001/udp/239.252.219.173:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西影视旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西影视旅游
 http://gzly.hkychina.com:6001/udp/239.252.220.101:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西公共农业
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西公共农业
 http://gzly.hkychina.com:6001/udp/239.252.220.102:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西少儿频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西少儿频道
 http://gzly.hkychina.com:6001/udp/239.252.220.111:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西新闻频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西新闻频道
 http://gzly.hkychina.com:6001/udp/239.252.220.100:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚购物
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西移动电视
+http://gzly.hkychina.com:6001/udp/239.252.220.241:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",风尚购物
 http://gzly.hkychina.com:6001/udp/239.252.220.151:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陶瓷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",陶瓷
 http://gzly.hkychina.com:6001/udp/239.252.219.125:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西教育频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西地方台",江西教育频道
 http://gzly.hkychina.com:6001/udp/239.252.219.115:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://gzly.hkychina.com:6001/udp/239.252.219.201:5140
